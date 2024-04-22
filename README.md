@@ -13,7 +13,7 @@ lilypad run cowsay:v0.0.3 -i Message="moo"
 ```
 [![Watch the video](https://img.youtube.com/vi/Ep9ML9h8DTE/0.jpg)](https://www.youtube.com/watch?v=Ep9ML9h8DTE)
 
-Additional modules can be found in the following repositories: 
+The current list of modules can be found in the following repositories: 
 
 * [sdxl](https://github.com/lilypad-tech/lilypad-module-sdxl)
 * [stable-diffusion](https://github.com/lilypad-tech/lilypad-module-stable-diffusion)
@@ -24,6 +24,8 @@ Additional modules can be found in the following repositories:
 * [filecoin-data-prep](https://github.com/lilypad-tech/lilypad-module-filecoin-data-prep)
 * [wasm](https://github.com/lilypad-tech/lilypad-module-wasm)
 * [cowsay](https://github.com/lilypad-tech/lilypad-module-cowsay)
+
+Containerized job modules can be built and added to the available module list; for more details visit the [building a job](https://lilypad.team/building) documentation. If you would like to contribute, open a pull request on this repository to add your link to the list above.
 
 ## Getting started running a Node on Lilypad Network
 
